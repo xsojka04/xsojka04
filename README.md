@@ -11,7 +11,7 @@ I'm a passionate software enthusiast, deeply engaged with .NET and web applicati
 
 ## My Work
 - Check out my repositories to see what I've been up to!
-- I'm particularly proud of Eurocamp repository, unfortunately, this repository is private and not a technical masterpiece. I created it in a rush and now I maintain it for free. It is for a good cause after all. Czech it out [here](https://eurocampy.eu/).
+- I'm particularly proud of Soicheek repository. It is a silly project I started at the end of 2023 to try Blazor with .NET 8, GitLab CI/CD (build, test, deploy), and Docker.
 - I recently founded the company Mjays Software Solutions with which I push my side projects to the world and allows me to experiment with new technologies as a full-stack developer regularly.
 
 ## Let's Build Something Amazing Together
