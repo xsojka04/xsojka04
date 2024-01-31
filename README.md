@@ -11,7 +11,7 @@ I'm a passionate software enthusiast, deeply engaged with .NET and web applicati
 
 ## My Work
 - Check out my repositories to see what I've been up to!
-- I'm particularly proud of Soicheek repository. It is a silly project I started at the end of 2023 to try Blazor with .NET 8, GitLab CI/CD (build, test, deploy), and Docker.
+- I'm particularly proud of Soicheek repository. It is a project I started at the end of 2023 to try Blazor with .NET 8, GitLab CI/CD (build, test, deploy), and Docker. I had a great time working on it and you can check out the project [here](https://github.com/xsojka04/Soicheek).
 - I recently founded the company Mjays Software Solutions with which I push my side projects to the world and allows me to experiment with new technologies as a full-stack developer regularly.
 
 ## Let's Build Something Amazing Together
